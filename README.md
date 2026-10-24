@@ -82,3 +82,31 @@ Explore the dashboard below. Each has its own dedicated README with more details
 🔍 Drill-Through Functionality
 
 💡 [Full Project Details](/Road_Collision_Analysis_2023/README.md)
+
+
+## 🧭 Sleep & Bedtime Screen-Time Analytics Dashboard
+![Sleep & Bedtime Screen-Time](/Images/db_bedtime-1.png)
+
+**Key Power BI Skills Utilized :**
+
+🎨 Dashboard Layout & Design 
+
+⚙ Power Query (ETL & Data Shaping)
+
+🔗 Basic Data Modeling ( Table Relationships)
+
+🎡 Implicit Measures & Standard Aggregations 
+
+📊 Core Chart ( Bar, Line, Area, Column)
+
+🗺 Map Visualization for Geospatial Data
+
+🔩 KPI Cards & Detailed Data Tables 
+
+📌 Interactive Slicers for Filtering
+
+📍 Buttons & Bookmarks for Page Navigation 
+
+🔍 Drill-Through Functionality
+
+💡 [Full Project Details](/Sleep&Bedtime_Phone_Usage/README.md)
