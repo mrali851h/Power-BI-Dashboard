@@ -110,3 +110,30 @@ Explore the dashboard below. Each has its own dedicated README with more details
 🔍 Drill-Through Functionality
 
 💡 [Full Project Details](/Sleep&Bedtime_Phone_Usage/README.md)
+
+## 🌭 Bakery Sales Analytics Dashboard
+![Bakery Sales](/Images/db_bakary_Overview.gif)
+
+**Key Power BI Skills Utilized :**
+
+🎨 Dashboard Layout & Design 
+
+⚙ Power Query (ETL & Data Shaping)
+
+🔗 Basic Data Modeling ( Table Relationships)
+
+🎡 Implicit Measures & Standard Aggregations 
+
+📊 Core Chart ( Bar, Line, Area, Column)
+
+🗺 Map Visualization for Geospatial Data
+
+🔩 KPI Cards & Detailed Data Tables 
+
+📌 Interactive Slicers for Filtering
+
+📍 Buttons & Bookmarks for Page Navigation 
+
+🔍 Drill-Through Functionality
+
+💡 [Full Project Details](/Bakery_Sales_Analysis/README.md)
